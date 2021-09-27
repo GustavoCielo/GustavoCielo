@@ -12,4 +12,4 @@ My first touch with programming was at age 15, when I worked with Lua Script.
 But at the time, I chose to study law and became a lawyer and also worked as business manager in my father's business.
 
 gh.cielo@hotmail.com
-github.com/GustavoCielo
+gitlab.com/GustavoCielo
