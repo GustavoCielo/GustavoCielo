@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoCielo
 - 👀 I’m interested in backend jobs through Python, Javascript or Golang
-- 🌱 I’m currently squad leader at a tech start-up
+- 🌱 I’m currently a Backend Developer for a company
 - 📫 How to reach me gh.cielo@hotmail.com / linkedin.com/in/gustavohcielo
 
 Abilities in HTML5 | CSS3 | Javascript | React.js | SASS | Styled-Components | Bootstrap | Typescript |
