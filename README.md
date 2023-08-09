@@ -3,9 +3,12 @@
 - 🌱 I’m currently a Backend Developer for a company
 - 📫 How to reach me gh.cielo@hotmail.com / linkedin.com/in/gustavohcielo
 
-Abilities in HTML5 | CSS3 | Javascript | React.js | SASS | Styled-Components | Bootstrap | Typescript |
-Knowledge on GIT | Scrum | agile methodologies | management and leadership, coaching.
-Good understanding of Python | Flask | Flask-restX | Django | AWS | MongoDB | DynamoDB | PostgresQL | ElasticSearch |
+Skills in Go | Golang | Gin | gRPC | protoc | sqlc | Web-development | REST | HTTP/2 | 
+Abilities in Python | Flask | Flask-RestX | Django | Rest framework | MongoDB | PostgresSQL | DynamoDB |
+Javascript | React | Node.js.
+C# | asp.net core | Entity Framework | 
+Knowledge on GIT | CI/CD | Scrum | agile methodologies | management, leadership and coaching.
+Good understanding of LAMBDA functions and AWS, ElasticSearch, SQS, SNS, S3 and Docker.
 
 My connection and passion with technology began early, I was always connected to the area, and mostly, computers.
 My first touch with programming was at age 15, when I worked with Lua Script. 
