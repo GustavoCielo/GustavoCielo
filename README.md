@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @GustavoCielo
-- 👀 I’m interested in backend jobs through Python, Javascript or Golang
+- 👀 I’m interested in backend jobs through Golang or Python, in love with Rust too!
 - 🌱 I’m currently a Backend Developer for a company
 - 📫 How to reach me: https://linkedin.com/in/gustavohcielo
 
-Skills in Go | Golang | Gin | gRPC | protoc | sqlc | Web-development | REST | HTTP/2 | 
+Skills in Go | Golang | Gin | gRPC | protoc | sqlc | Web-development | REST | HTTP/2 |
 Abilities in Python | Flask | Flask-RestX | Django | Rest framework | MongoDB | PostgresSQL | DynamoDB |
 Javascript | React | Node.js.
 C# | asp.net core | Entity Framework | 
